@@ -2,11 +2,11 @@ Palindrome Checker Project
 This project is a simple web application built to check if a given input is a palindrome or not. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and functionality for palindrome verification.
 
 Live Demo
-You can check out the live demo of this project [https://effervescent-conkies-ee42e9.netlify.app/].
+You can check out the live demo of this project [https://effervescent-conkies-ee42e9.netlify.app/]
 
 Project Overview
 Technologies Used:
-HTML: Used for structuring the web page.
+ HTML: Used for structuring the web page.
 CSS: Used for styling the user interface.
 JavaScript: Used for implementing the palindrome checking logic and handling user interactions.
 What I Learned:
